@@ -19,11 +19,11 @@ A downloader for **Modrinth**, with features including search capabilities, auto
 ## Installation
 **Use curl**
 ```bash
-curl -L -o modrinth_dl.py https://raw.githubusercontent.com/lunoshiro/modrinth-downloader/refs/heads/main/modrinth_dl.py
+curl -L -o modrinth_dl.py https://raw.githubusercontent.com/rvnka/modrinth-downloader/refs/heads/main/modrinth_dl.py
 ```
 or **Clone this repository**
 ```bash
-git clone https://github.com/lunoshiro/modrinth-downloader.git && cd modrinth-downloader
+git clone https://github.com/rvnka/modrinth-downloader.git && cd modrinth-downloader
 ```
 
 ## Usage
